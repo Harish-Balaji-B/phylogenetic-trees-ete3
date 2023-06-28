@@ -12,3 +12,10 @@ Phylogenetic trees are constructed using various methods and techniques, includi
 
 - The RF distance is widely used in phylogenetics to compare different trees and to determine which one is more likely to be correct. It is particularly useful for comparing trees that have been inferred using different methods or data sets.
 
+# Requirements
+We require the ete3 library in python. To install that, we use<br>
+`!pip install ete3`
+
+If still the code doesn't work, then run<br>
+`!pip install --upgrade ete3`
+
